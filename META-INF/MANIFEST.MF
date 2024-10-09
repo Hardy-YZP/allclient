@@ -1,0 +1,21 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.9.6
+Created-By: 8.0.5.17 - pxa6480sr5fp17-20180627_01(SR5 FP17) (IBM Corpo
+ ration)
+Copyright-Notice: Licensed Materials - Property of IBM       5724-H72 
+          (c) Copyright IBM Corp. 2008, 2023 All Rights Reserved.     
+      US Government Users Restricted Rights -          Use,duplication
+  or disclosure restricted by GSA ADP Schedule Contract          with 
+ IBM Corp.
+Sealed: false
+Specification-Title: Java Message Service
+Specification-Version: 2.0
+Specification-Vendor: Oracle Corporation
+Implementation-Title: IBM MQ classes for JMS and Java
+Implementation-Version: 9.3.2.0 - p932-L230207
+Implementation-Vendor: IBM Corporation
+Main-Class: com.ibm.msg.client.commonservices.tools.MainController
+Automatic-Module-name: com.ibm.mq.javax
+Class-Path: jms.jar fscontext.jar providerutil.jar bcpkix-jdk15to18.ja
+ r bcprov-jdk15to18.jar bcutil-jdk15to18.jar org.json.jar
+
